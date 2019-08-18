@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	padding-bottom: 70px;
+	padding-top: 70px;
+	background-color: #2F5721
+}
+
+#nav-header{
+	background-color: #5CF34B;
+	border:  grey;
+}
+
+#nav-header a{
+	height: 50px;
+	color: black;
+}
+
+#nav-header .active a{
+	background-color: #5F5F5F;
+}
+
+#nav-header div>div>ul>li>a{
+	border-color: black;
+}
+#nav-header .navbar-nav a{
+	padding-top: 15px;
+}
+
+#nav_footer{
+	height: 50px;
+	padding: 10px;
+	background-color: #5CF34B;
+}
+
+#nav_footer p{
+	color: white;
+	margin-top: 10x;
+}
+
+#survey-jumbotron{
+	padding: 24px;
+	background-color: grey;
+	color: white;
+}
+
+#survey-form label{
+	margin-top:  14px;
+}
+
+#survey-form input,
+#survey-form textarea{
+	
+}
+
+#survey-form .btn{
+	
+}
